@@ -1,0 +1,16 @@
+C:\Users\fpere\Documents\alexf foa\unifoa\programação orientada a objetos\poo 3\ControleConta\bin\Debug\net5.0\ControleConta.exe
+C:\Users\fpere\Documents\alexf foa\unifoa\programação orientada a objetos\poo 3\ControleConta\bin\Debug\net5.0\ControleConta.deps.json
+C:\Users\fpere\Documents\alexf foa\unifoa\programação orientada a objetos\poo 3\ControleConta\bin\Debug\net5.0\ControleConta.runtimeconfig.json
+C:\Users\fpere\Documents\alexf foa\unifoa\programação orientada a objetos\poo 3\ControleConta\bin\Debug\net5.0\ControleConta.runtimeconfig.dev.json
+C:\Users\fpere\Documents\alexf foa\unifoa\programação orientada a objetos\poo 3\ControleConta\bin\Debug\net5.0\ControleConta.dll
+C:\Users\fpere\Documents\alexf foa\unifoa\programação orientada a objetos\poo 3\ControleConta\bin\Debug\net5.0\ref\ControleConta.dll
+C:\Users\fpere\Documents\alexf foa\unifoa\programação orientada a objetos\poo 3\ControleConta\bin\Debug\net5.0\ControleConta.pdb
+C:\Users\fpere\Documents\alexf foa\unifoa\programação orientada a objetos\poo 3\ControleConta\obj\Debug\net5.0\ControleConta.csproj.AssemblyReference.cache
+C:\Users\fpere\Documents\alexf foa\unifoa\programação orientada a objetos\poo 3\ControleConta\obj\Debug\net5.0\ControleConta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpere\Documents\alexf foa\unifoa\programação orientada a objetos\poo 3\ControleConta\obj\Debug\net5.0\ControleConta.AssemblyInfoInputs.cache
+C:\Users\fpere\Documents\alexf foa\unifoa\programação orientada a objetos\poo 3\ControleConta\obj\Debug\net5.0\ControleConta.AssemblyInfo.cs
+C:\Users\fpere\Documents\alexf foa\unifoa\programação orientada a objetos\poo 3\ControleConta\obj\Debug\net5.0\ControleConta.csproj.CoreCompileInputs.cache
+C:\Users\fpere\Documents\alexf foa\unifoa\programação orientada a objetos\poo 3\ControleConta\obj\Debug\net5.0\ControleConta.dll
+C:\Users\fpere\Documents\alexf foa\unifoa\programação orientada a objetos\poo 3\ControleConta\obj\Debug\net5.0\ref\ControleConta.dll
+C:\Users\fpere\Documents\alexf foa\unifoa\programação orientada a objetos\poo 3\ControleConta\obj\Debug\net5.0\ControleConta.pdb
+C:\Users\fpere\Documents\alexf foa\unifoa\programação orientada a objetos\poo 3\ControleConta\obj\Debug\net5.0\ControleConta.genruntimeconfig.cache
